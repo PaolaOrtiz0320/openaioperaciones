@@ -1,0 +1,28 @@
+:root{
+  --brand:#0d6efd;
+  --ink:#0b1220;
+  --muted:#6c757d;
+  --bg:#f8f9fa;
+}
+
+body{ background: var(--bg); color: var(--ink); }
+
+.app-card{
+  border: 1px solid rgba(0,0,0,.07);
+  border-radius: 1rem;
+  background: #fff;
+  box-shadow: 0 10px 30px rgba(0,0,0,.06);
+}
+
+.badge-soft{
+  background: rgba(13,110,253,.1);
+  color: var(--brand);
+  border: 1px solid rgba(13,110,253,.2);
+}
+
+.footer {
+  color: var(--muted);
+  font-size: .9rem;
+}
+
+code.small{ font-size:.9rem; }
