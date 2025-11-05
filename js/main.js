@@ -2,7 +2,7 @@
 // Configuración
 // =========================
 // Pon aquí tu Webhook de n8n cuando lo tengas. Si lo dejas vacío, NO enviará nada.
-const WEBHOOK_URL = "https://paoortiz0311.app.n8n.cloud/webhook-test/bc6b83e8-9c44-44a0-8e46-5bcda551daab"; // Ej.: "https://tu-instancia.n8n.cloud/webhook/abcd1234"
+const WEBHOOK_URL = "https://paoortiz0311.app.n8n.cloud/webhook/bc6b83e8-9c44-44a0-8e46-5bcda551daab"; // Ej.: "https://tu-instancia.n8n.cloud/webhook/abcd1234"
 
 // =========================
 // Utilidades
